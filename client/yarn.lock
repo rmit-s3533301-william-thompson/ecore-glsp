@@ -864,6 +864,14 @@
     lodash "^4.17.19"
     to-fast-properties "^2.0.0"
 
+"@eclipse-emfcloud/sprotty-ecore@next":
+  version "0.3.0-next.644b5d75"
+  resolved "https://registry.yarnpkg.com/@eclipse-emfcloud/sprotty-ecore/-/sprotty-ecore-0.3.0-next.644b5d75.tgz#3c8a3a3d13cd6a6fa990d6c0e564629313054328"
+  integrity sha512-7rLucsFsACmgFIf51w3IQz1XWBnE0px8EnZk6mZGS8iO3dxf7Q3o/1+51TK1qXAhdVrORpy2mBuPAe6Jlofqww==
+  dependencies:
+    "@eclipse-glsp/client" next
+    reflect-metadata "^0.1.10"
+
 "@eclipse-glsp/client@0.8.0-next.e555d60", "@eclipse-glsp/client@next":
   version "0.8.0-next.e555d60"
   resolved "https://registry.yarnpkg.com/@eclipse-glsp/client/-/client-0.8.0-next.e555d60.tgz#647cf27b3dc12efe248ef3307bac968eef17c0b8"
@@ -11722,7 +11730,7 @@ typescript@^3.3.3:
   version "3.8.3"
   resolved "https://registry.yarnpkg.com/typescript/-/typescript-3.8.3.tgz#409eb8544ea0335711205869ec458ab109ee1061"
 
-typescript@~3.9.2:
+typescript@^3.9.2, typescript@~3.9.2:
   version "3.9.7"
   resolved "https://registry.yarnpkg.com/typescript/-/typescript-3.9.7.tgz#98d600a5ebdc38f40cb277522f12dc800e9e25fa"
   integrity sha512-BLbiRkiBzAwsjut4x/dsibSTB6yWpwT5qWmC2OfuCg3GgVQCSgMs4vEctYPhsaGtd0AeuuHMkjZ2h2WG8MSzRw==
